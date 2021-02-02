@@ -5,3 +5,16 @@
     "format-version": "2.33.4"
 }
 
+:: StoryTitle
+Native Songs
+
+:: StoryInit
+
+
+:: Start
+(This is a rough draft. Dialogue will change.)
+It's monday morning and the young man, the dj producer pulled an all-nighter, again. 
+His eyelids are full with crust.
+He glances over at the alarm clock and it says 10:00 AM. 
+<<type 60ms>>It's time to go to the record store.<</type>>
+[[Head to the store!|store]]
