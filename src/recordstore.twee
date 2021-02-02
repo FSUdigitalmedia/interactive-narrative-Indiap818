@@ -7,4 +7,16 @@ He bumps into Mr.Dallas, the store owner.
 
 Mr.Dallas runs his fingers through a plethora of old record labels and signals to five records.
 Dumas knows what to do. He needs to make a song for his grandmother and he needs 5 items to combine to make a good song.
-(He's thinking, maybe 2 soundbytes and 3 samples. or a combination that would end in 5.)
+(He's thinking, maybe 2 soundbytes and 3 samples. or a combination that would end in 5.
+This is where the player can choose between the items in the record store, the secret room or ask Mr.Dallas for help.)
+
+Mr.Dallas stares at Dumas. "You've been quiet mighty long boy. You need help or something?"
+[[Ask for help|help]]
+
+[[Stare some more at the ground|ground]]
+
+[[Laugh and pick a random sample|sample]]
+
+:: sample
+
+"Are you serious?" He picked up samples of songs.
