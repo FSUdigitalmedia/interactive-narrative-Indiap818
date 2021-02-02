@@ -12,12 +12,15 @@ Native Songs
 India Peoples
 
 :: StoryInit
-
+<<set $soundbyte to 2>>
+<<set $sounds to 3>>
 
 :: Start
 (This is a rough draft. Dialogue will change.)
-It's monday morning and the young man named dumas pulled an all-nighter, again. 
-His eyelids are full with crust.
-He glances over at the alarm clock and it says 10:00 AM. 
+<<type 60ms>>It's monday morning and the young man named dumas pulled an all-nighter, again. <</type>>
+<<type 60ms>>His eyelids are full with crust.<</type>>
+<<type 60ms>>He glances over at the alarm clock and it says 10:00 AM.<</type>> 
 <<type 60ms>>It's time to go to the record store.<</type>>
 [[Head to the store!|store]]
+
+[[Head to Grandma's place.|house]]
