@@ -11,13 +11,13 @@ Dumas knows what to do. He needs to make a song for his grandmother and he needs
 This is where the player can choose between the items in the record store, the secret room or ask Mr.Dallas for help.)
 
 Mr.Dallas stares at Dumas. "You've been quiet mighty long boy. You need help or something?"
-[[Ask for help|help]]
+[[Ask for help|Help]]
 
-[[Stare some more at the ground|ground]]
+[[Stare some more at the ground|Ground]]
 
 [[Laugh and pick a random sample|sample]]
 
-:: help
+:: Help
 Mr.Dallas is holding a couple of samples. 
 "I got some hip hop samples boy. Some beats, some instrumentals. you like that kind of stuff?"
 Dumas looks at his hands. He's holding some records...
@@ -40,7 +40,7 @@ Dumas is pondering and Mr.Dallas sees the look on his face.
 
 [[look around some more.|store]]
 
-:: ground
+:: Ground
 Dumas has no idea on where to start. Maybe asking for help could be a great start.
 
 [[Where is Mr.Dallas?|help]]
