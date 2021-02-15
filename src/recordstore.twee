@@ -29,8 +29,17 @@ Mf doom-mugwort
 -harp clash
 -Record scratch
 -trumpet horn
+
+Dumas is pondering and Mr.Dallas sees the look on his face. 
+"Boy, you can still look around! you don't have to pick what I got."
+
+[[look around some more.|store]]
+
 :: ground
 Dumas has no idea on where to start. Maybe asking for help could be a great start.
+
+[[Where is Mr.Dallas?|help]]
+
 :: sample
 "Are you serious?" He picked up a sample.
 "A  jazz record? I need to test this first."
