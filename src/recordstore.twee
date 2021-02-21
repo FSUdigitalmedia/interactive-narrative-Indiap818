@@ -17,6 +17,8 @@ Mr.Dallas stares at Dumas. "You've been quiet mighty long boy. You need help or 
 
 [[Laugh and pick a random sample|sample]]
 
+[[He thinks that he's ready to go. He has something prepared.|house]]
+
 :: Help
 Mr.Dallas is holding a couple of samples. 
 "I got some hip hop samples boy. Some beats, some instrumentals. you like that kind of stuff?"
@@ -27,7 +29,7 @@ J-Dilla-Dime piece
 
 [img[../assets/Pharcyde-Labcabincalifornia-2LP-12-03.jpg]]
 Pharcyde-Pharcyde
-
+<<audio"..>>
 [img[../assets/rs=w_600,h_600.jpg]]
 Mf doom-mugwort
 "These are some of my prized possessions. take one only, and if you like i got some sound clips you can mix with that."
@@ -41,17 +43,23 @@ Dumas is pondering and Mr.Dallas sees the look on his face.
 [[look around some more.|store]]
 
 :: Ground
-Dumas has no idea on where to start. Maybe asking for help could be a great start.
+Dumas has no idea on where to start. Maybe asking for help could be a great start. 
+He's thinking...
 
 [[Where is Mr.Dallas?|Help]]
 
 :: sample
+He looks at the bins of records and reaches for something, just anything. 
 "Are you serious?" He picked up a sample.
 "A  jazz record? I need to test this first."
 [[head to the record room|record]]
 
 :: record
-This is where anyone who enters the store can set their samples, record or test an album out alltogether.
+This is where anyone who enters the store can set their samples, record or test an album out altogether.
 Dumas has to have all his materials together but luckily, he can always ask for help if he is stuck. 
 
-[[Go back outside.|store]]
+[[Go back outside.|storehere]]
+
+:: storehere
+He finds himself back in the main room. He needs at least 1 sample of a record and 2 soundbytes.
+
