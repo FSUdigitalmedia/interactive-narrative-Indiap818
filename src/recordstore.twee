@@ -43,6 +43,8 @@ Mf doom-mugwort
 Dumas is pondering and Mr.Dallas sees the look on his face. 
 "Boy, you can still look around! you don't have to pick what I got."
 
+[[I got it, let's go to the house|house]]
+
 [[look around some more.|store]]
 
 :: Ground
@@ -60,10 +62,14 @@ He looks at the bins of records and reaches for something, just anything.
 :: record
 This is where anyone who enters the store can set their samples, record or test an album out altogether.
 Dumas has to have all his materials together but luckily, he can always ask for help if he is stuck. 
+"A jazz record?"
+[[play|https://www.youtube.com/watch?v=mKf1x3CALAE]]
 
 [[Go back outside.|storehere]]
 
 :: storehere
 He finds himself back in the main room. He needs at least 1 sample of a record and 2 soundbytes.
+Pick something...
+[[look around again|store]]
 
 [[I'm done, let's go to the house|house]]
