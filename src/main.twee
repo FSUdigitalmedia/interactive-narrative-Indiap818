@@ -15,9 +15,10 @@ India Peoples
 <<set $soundbyte to 2>>
 <<set $sounds to 3>>
 <<set $songsage to random(1,4)>>
-
+<<cacheaudio "ThePharcydePharcyde" "assets\ThePharcydePharcyde.mp3">>
+<<cacheaudio "LaughAndApplauseSoundBiblecom13598547501" "LaughAndApplauseSoundBiblecom13598547501.mp3">>
+<<cacheaudio "Train_Honk_Horn_2xMike_Koenig157974048.mp3" "Train_Honk_Horn_2xMike_Koenig157974048.mp3">>
 :: Start
-(This is a rough draft. Dialogue will change.)
 <<type 60ms>>It's monday morning and the young man named dumas pulled an all-nighter, again. <</type>>
 <<type 60ms>>His eyelids are full with crust.<</type>>
 <<type 60ms>>He glances over at the alarm clock and it says 10:00 AM.<</type>> 

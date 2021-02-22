@@ -26,17 +26,19 @@ Dumas looks at his hands. He's holding some records...
 These are the choices he's giving dumas to pick from:
 [img[../assets/mqdefault.jpg]]
 J-Dilla-Dime piece
-
+[[play it|https://www.youtube.com/watch?v=q2lRafkBr48]]
 [img[../assets/Pharcyde-Labcabincalifornia-2LP-12-03.jpg]]
 Pharcyde-Pharcyde
-<<audio"..>>
+<<audio :ThePharcydePharcyde play>>
 [img[../assets/rs=w_600,h_600.jpg]]
 Mf doom-mugwort
 "These are some of my prized possessions. take one only, and if you like i got some sound clips you can mix with that."
--harp clash
+-Laugh effect
+[[play that|audio "../assets/LaughAndApplauseSoundBiblecom13598547501.mp3"]]
 -Record scratch
--trumpet horn
-
+[[play this|audio"../assets/RecordScratchSoundEffect.mp3"]]
+- Horn honk
+[[play this too|"../assets/Train_Honk_Horn_2xMike_Koenig157974048.mp3"]]
 Dumas is pondering and Mr.Dallas sees the look on his face. 
 "Boy, you can still look around! you don't have to pick what I got."
 
@@ -63,3 +65,4 @@ Dumas has to have all his materials together but luckily, he can always ask for 
 :: storehere
 He finds himself back in the main room. He needs at least 1 sample of a record and 2 soundbytes.
 
+[[I'm done, let's go to the house|house]]
